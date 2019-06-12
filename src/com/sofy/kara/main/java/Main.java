@@ -1,4 +1,4 @@
-package sample;
+package com.sofy.kara.main.java;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
